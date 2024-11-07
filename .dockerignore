@@ -1,0 +1,17 @@
+# Environments
+.venv/
+.env
+
+# Git
+.git/
+.gitignore
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+
+# Data
+README.md
